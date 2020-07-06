@@ -3,6 +3,6 @@ The dataset used to train was MIT-BIH Database, downloaded from physionet. Conta
 Developed a 5 layerd convolution neural network model. Achieved an accuracy of greater than 90 % on most ecg signals.
 Modules used:
   SciKit,
-  Matlib,
+  Matplotlib,
   numpy,
   panda
